@@ -23,6 +23,8 @@ public class Shopping {
 			.doPayment("1212121@okicici")
 		    .logOut();
 		
+		System.out.println("Ending.......");
+		
 	}
 
 }
